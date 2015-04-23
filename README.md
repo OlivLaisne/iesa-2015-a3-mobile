@@ -10,4 +10,7 @@ cordova plugins ls => liste les plugins installés
 
 Visualiser l'image dans xcode avant de relancer l'application pour les changements soients pris en compte.
 
-commande + shift + k = Vider le cache de xcode
+Ajouter un tag github :
+git tag release-j1 
+
+git push origin --tags
